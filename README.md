@@ -1,7 +1,7 @@
 # CRUD Pessoas utilizando Java com Maven
 
 
-- Verificar POM.xml para verificar as dependências
+- Verificar POM.xml para as dependências
 
 
 Projeto simplificado, baseado no padrão DAO.  
