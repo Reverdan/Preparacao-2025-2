@@ -45,7 +45,7 @@ go
 create table pessoas  
 (  
     id int identity(1,1) primary key,  
-    nome varchar(30),  
+    nome varchar(30) not null,  
     rg varchar(10),  
     cpf varchar(13),  
 )  
