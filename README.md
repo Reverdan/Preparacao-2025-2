@@ -38,7 +38,8 @@ Aplicado com separação de Pacotes.
 
 ## Script BD
 ```
-create database alpoo  
+create database alpoo
+go
 use alpoo  
 go  
 
